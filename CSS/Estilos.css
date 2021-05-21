@@ -1,0 +1,174 @@
+<style>
+*{
+	margin:0;
+	padding:0;
+	list-style:none;
+	font-family:sans-serif; 
+}
+header{
+	position:relative;
+	margin:20px 150px;
+	witdh:744px;
+	height:90px;
+	
+}
+
+#logo{
+	position:absolute;
+	top:24px;
+	left:45px;
+	width:148px;
+	height:45px;
+	font-family:'Kaushan Script', cursive;
+	font-size:40px;
+	text-align:center;
+	line-height:50px;
+}
+
+.redes{
+	position:absolute;
+	width:31px;
+	height:31px;
+	background:#ccc;
+	border-radius:100%;
+	text-align:center;
+	line-height:31px;
+	color:white;
+}
+#icono1{
+	top:31px;
+	right:89px;
+	background:blue;
+}
+#icono2{
+	top:31px;
+	right:53px;
+	background:green;
+}
+#icono3{
+	top:31px;
+	right:16px;
+	background:red;
+}
+nav{
+	position:relative;
+	margin:20px 150px;
+	witdh:744px;
+	height:37px;
+	
+}
+
+.botones{
+	float:left;
+	width:252.5px;
+	margin:0px 2px;
+	height:37px;
+	background:rgba(100,0,255,1);
+	font-family:'Kaushan Script', cursive;
+	color:white;
+	text-align:center;
+	line-height:37px;
+}
+
+#top{
+	position:relative;
+	margin:20px 150px;
+	witdh:744px;
+	height:143px;
+	
+}
+#top ul{
+	width:1298px;
+	height:143px;
+	
+}
+#top ul li{
+	float:left;
+	width:421px;
+	height:143px;
+	margin-right:10px;
+	text-align:center;
+}
+
+#top ul li img{
+	border-radius:100%;
+	height:80px;
+}
+
+#top ul li h1{
+	font-family:'Kaushan Script', cursive;
+}
+
+#top ul li p {
+	font-size:14px;
+	margin:10px;	
+}
+
+section{
+	position:relative;
+	margin:20px 150px;
+	witdh:744px;
+	height:339px;
+	
+}
+aside#izq{
+	position:absolute;
+	left:0;
+	top:0;
+	width:200px;
+	height:339px;
+}
+
+aside#izq ul li{
+	background:#aaa;
+	padding:10px;
+	margin:2px 10px;
+	list-style:square;
+	list-style-position:inside;
+	list-style-image:url(../../BRYAN%20ELY%20MORENO%20MARTINEZ%20-%20lista.png);
+}
+
+article{
+	position:absolute;
+	left:200px;
+	width:881px;
+	height:339px;
+	
+}
+article h1{
+	font-family:'Kaushan Script', cursive;
+	font-size:30px;
+	margin:10px;
+}
+
+article p img{
+	float:left;
+	margin-right:20px;
+}
+
+article p{
+	margin:5px 20px;
+	font-size:14px;
+	text-align:justify;
+}
+
+aside#der{
+	position:absolute;
+	left:1082px;
+	top:0;
+	width:200px;
+	height:339px;
+	background:#333;
+}
+
+footer{
+	position:relative;
+	margin:20px 150px;
+	witdh:744px;
+	height:53px;
+	background:rgba(100,0,255,1);
+	text-align:center;
+	line-height:53px;
+	color:white;
+	}
+<style/>
